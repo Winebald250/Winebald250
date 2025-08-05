@@ -57,5 +57,4 @@
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Winebald250&theme=dark&show_icons=true&locale=en" alt="Winebald stats" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Winebald250&theme=dark" alt="Winebald streak" />
 </p>

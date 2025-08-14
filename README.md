@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Winebald</h1>
-<h3 align="center">COMPUTER & SOFTWARE ENGINEER</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi+,+I'm+Winebald" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Winebald250&label=Profile%20views&color=0e75b6&style=flat" alt="Winebald" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Computer+%26+Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">

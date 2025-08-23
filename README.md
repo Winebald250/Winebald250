@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://github.com/Winebald250">
-  <img src="https://github-profile-trophy.vercel.app/api?username=Winebald250&theme=matrix&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Winebald250&theme=matrix&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </a>
 </p>
 
